@@ -5,14 +5,14 @@
 
 📱 App: [limo-guide-app](https://github.com/byulla/limo-guide-app)
 
-![System framework](docs/framework.png)
+![System framework](limo_fusion_server/docs/framework.png)
 
 ## Results
 - 거리 오차 ≤ 0.02 m (1.0/1.5 m 실측)
 - 빈 환경 3분 오탐지 0회
 - 융합 파이프라인 10–11 FPS, 종단 간 지연 ~0.45 s
 
-![Real-time detection results](docs/results.png)
+![Real-time detection results](limo_fusion_server/docs/results.png)
 
 ## Run
 ```bash
